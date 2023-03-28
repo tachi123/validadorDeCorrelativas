@@ -72,12 +72,6 @@ public class LectorCSV {
 			}
 
 		}
-		// Imprimir la línea, con el resultado si la inscripción está o no ok
-		for(Inscripcion inscripcion : inscripciones) {
-			System.out.println(inscripcion.getAlumno().getNombre()+" | "+inscripcion.getMateria().getNombre()+" | "+inscripcion.aprobada());
-		}
-		
-		
 	}
 	
 	public Inscripcion validarInscripciono(List<Alumno> alumnos, List<Materia> materias, LineasCsvInscripcion lineaLeida) throws NoExisteAlumnoExcepcion, NoExisteMateriaExcepcion {

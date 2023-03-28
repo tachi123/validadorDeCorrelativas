@@ -49,7 +49,7 @@ public class InscripcionTest {
 		
 		alumno.agregarMateriaAprobada(programacionI);
 
-		//Creamos una inscripción SIN CORRELATIVAS
+		//Creamos una inscripcion CON CORRELATIVAS APROBADAS
 		Inscripcion inscripcion = new Inscripcion(alumno, programacionII);
 		
 		assertTrue(inscripcion.aprobada());

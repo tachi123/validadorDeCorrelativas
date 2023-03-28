@@ -18,7 +18,6 @@
               <goal>shade</goal>
             </goals>
             <configuration>
-              <release>13</release>
               <transformers>
                 <transformer>
                   <mainClass>org.argentinaprograma.validadorDeCorrelativas.App</mainClass>
