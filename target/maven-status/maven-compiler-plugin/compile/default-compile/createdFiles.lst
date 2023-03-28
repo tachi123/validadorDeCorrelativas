@@ -1,0 +1,8 @@
+org\argentinaprograma\validadorDeCorrelativas\excepciones\NoExisteAlumnoExcepcion.class
+org\argentinaprograma\validadorDeCorrelativas\excepciones\NoExisteMateriaExcepcion.class
+org\argentinaprograma\validadorDeCorrelativas\App.class
+org\argentinaprograma\validadorDeCorrelativas\models\Inscripcion.class
+org\argentinaprograma\validadorDeCorrelativas\servicios\LectorCSV.class
+org\argentinaprograma\validadorDeCorrelativas\models\Materia.class
+org\argentinaprograma\validadorDeCorrelativas\models\LineasCsvInscripcion.class
+org\argentinaprograma\validadorDeCorrelativas\models\Alumno.class
